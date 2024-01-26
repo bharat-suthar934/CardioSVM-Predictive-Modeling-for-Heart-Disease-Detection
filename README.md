@@ -1,0 +1,1 @@
+HeartCheck SVM is an advanced machine learning model meticulously crafted to predict the presence or absence of heart disease in individuals. Developed using a Support Vector Machine (SVM) classifier, the model analyzes key health indicators, such as blood pressure, cholesterol levels, and age, providing swift and accurate predictions.
